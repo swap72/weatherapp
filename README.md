@@ -1,2 +1,2 @@
 # weatherapp
-My team's project
+Weatherapp Project
